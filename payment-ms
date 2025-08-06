@@ -1,5 +1,5 @@
 server.port=9011
-spring.datasource.url=jdbc:mysql://localhost:3306/configdata
+spring.datasource.url=jdbc:mysql://localhost:3306/orderdata
 spring.datasource.username=root
 spring.datasource.password=Srikanth@6789
 
